@@ -6,7 +6,7 @@
 :construction: Proyecto en fase final :construction:
 </h4>
    <a>vista de proyecto</a>
-   <p>kk</a>
+   <p>https://eosorto.github.io/juego-x0/</a>
    <h2>AGRADECIMIENTOS ESPECIALES </h2>
    <p>https://www.youtube.com/@soyjab/featured</p>
     <p>https://www.aluracursos.com/</p>
