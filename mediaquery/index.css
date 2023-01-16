@@ -1,0 +1,28 @@
+@media screen and (max-width:385px) {
+  h1{
+    font-size: 25px;
+  }
+  /* body{
+    background-color: red;
+  } */
+  .caja{
+    width: 90%;
+    padding: 5px;
+    justify-content: center;
+  }
+  button{
+    padding: 0;
+    margin: 0;
+    width: 29%;
+    height: 80px;
+  }
+  .footer-t{
+    grid-column: 3/8;
+    text-align: center;
+  }
+  .btnX:hover{
+    cursor: pointer;
+    background-color: black;
+    color: white;
+  }
+}
